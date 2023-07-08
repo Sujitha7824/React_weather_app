@@ -8,7 +8,14 @@ function App() {
       <div className="container">
         <CurrentLocation />
       </div>
-      
+      <div className="footer-info">
+        <a href="https://github.com/Sujitha7824/React_weather_app">
+          Download Source Code
+        </a>{" "}
+        | Developed by SujithaNuli
+       
+        
+      </div>
     </React.Fragment>
   );
 }
